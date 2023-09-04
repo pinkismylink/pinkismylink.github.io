@@ -1,0 +1,57 @@
+* {
+    font-family:cursive;
+    text-align: center;
+  }
+  
+  
+  h1,h2 {
+    color: rgb(9, 7, 2);
+    font-size: 30px;
+  }
+  
+  h2{
+    margin-left: 100px;
+    text-align: left;
+    font-weight: bold;
+    font-size: 40px;
+  }
+
+  p 
+  {
+    font-size: 22px;
+    color: rgb(1, 0, 0);
+  }
+  
+  
+  a {
+    text-decoration: none;
+  }
+li{font-weight: bold;
+margin: 7px 0px;
+position:relative;
+text-align: justify;
+background-image: url('https://wallpapers.com/images/featured/wall-texture-pictures-nscwts307wlfoebg.jpg');}
+img{
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+}
+header li
+{display: inline-block;
+text-align: center;
+font-size: 30px;
+position: relative;
+width: 220px;
+border: 1px solid rgb(34, 34, 33);}
+a{
+    color: rgba(255, 255, 255, 0.957);}
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqmhrFY2pLrnF0kZ3ltU3v4_hOOc4pQ257mg&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: 100%;}
+
+.portfolio img{
+    width: 350px;
+    height: 220px;
+    position: static;
+}
